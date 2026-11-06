@@ -1,0 +1,6 @@
+# All pinned on purpose.
+requests==2.31.0
+flask==3.0.0
+django==4.2.7
+numpy==1.26.0
+redis==5.0.0
