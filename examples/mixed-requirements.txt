@@ -1,0 +1,6 @@
+# Mixed on purpose: some pinned, some not.
+requests==2.31.0
+flask
+django>=4.2
+-r included.txt
+numpy==1.26.0

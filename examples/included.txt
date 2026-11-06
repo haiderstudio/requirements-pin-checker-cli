@@ -1,0 +1,3 @@
+# Shared base pins.
+celery>=5.3
+redis==5.0.0

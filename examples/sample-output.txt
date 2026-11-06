@@ -1,0 +1,4 @@
+UNPINNED  examples/mixed-requirements.txt:3: flask — no version
+UNPINNED  examples/mixed-requirements.txt:4: django — uses >= instead of ==
+UNPINNED  examples/included.txt:2: celery — uses >= instead of ==
+6 checked, 3 unpinned
